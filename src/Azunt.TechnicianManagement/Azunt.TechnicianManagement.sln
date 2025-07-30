@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azunt.TechnicianManagement"
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Azunt.SqlServer", "Azunt.SqlServer\Azunt.SqlServer.sqlproj", "{8764B8BA-0B99-4D79-A2DA-F8EB7C04E47F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azunt.Web", "Azunt.Web\Azunt.Web.csproj", "{09DAB2DE-74E1-4204-9FA6-453CF58E0245}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{8764B8BA-0B99-4D79-A2DA-F8EB7C04E47F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8764B8BA-0B99-4D79-A2DA-F8EB7C04E47F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8764B8BA-0B99-4D79-A2DA-F8EB7C04E47F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{09DAB2DE-74E1-4204-9FA6-453CF58E0245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09DAB2DE-74E1-4204-9FA6-453CF58E0245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09DAB2DE-74E1-4204-9FA6-453CF58E0245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09DAB2DE-74E1-4204-9FA6-453CF58E0245}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
